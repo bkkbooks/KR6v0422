@@ -1,0 +1,196 @@
+canonical_identifier: bkk:krp/KR6v0422/B/v1
+canonical_location: https://kanripo.org/bkk/KR6v0422/B/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 法藏碎金錄
+  identifiers:
+    krp: KR6v0422
+    cbeta: B27n0153
+    cbeta_old_id: B27n0153
+    authorityid: CA0006239
+    json_key: B0153
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B27/B27n0153.xml
+    old_id: B27n0153
+  edition:
+    short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0422_000-B.yaml, hash: 'sha256:6cf3d220d64790318394ff59303c1ade5042c5f183edaf8253c2798f3482e70f'}
+  - {seq: 1, filename: KR6v0422_001-B.yaml, hash: 'sha256:365fb186d5a152a903744b280bc4a3c98f94371f190511eeba2d97b0562ec57f'}
+  - {seq: 2, filename: KR6v0422_002-B.yaml, hash: 'sha256:38b66f3d911efe3043023de0d69b8ca44b09944799b3c826676eb8e8a195fb15'}
+  - {seq: 3, filename: KR6v0422_003-B.yaml, hash: 'sha256:d48719eac6bd6b3c1ec5b67a48b22791f6f2e29660bf47480612e6ba18431940'}
+  - {seq: 4, filename: KR6v0422_004-B.yaml, hash: 'sha256:da47180beecde492a3c60fd5923d6e70e40952fb95fbd2293263193a6428069b'}
+  - {seq: 5, filename: KR6v0422_005-B.yaml, hash: 'sha256:db459cf728e016ef27c96c97f4424b2d5384dcace3e379db5d5adca663482f5d'}
+  - {seq: 6, filename: KR6v0422_006-B.yaml, hash: 'sha256:c772f7c9d21c2fe404c2035258cbeda93932cbc90b8250594cec7c41d2a3b9aa'}
+  - {seq: 7, filename: KR6v0422_007-B.yaml, hash: 'sha256:c3cea8b4e0c1366d90851377b4512be1ffe4cd56bbe9baf80e6b61ebbbcab3d7'}
+  - {seq: 8, filename: KR6v0422_008-B.yaml, hash: 'sha256:e3d0779e66185891ae331d1c1a957685794eb162b33ff506ec97c954496d88c1'}
+  - {seq: 9, filename: KR6v0422_009-B.yaml, hash: 'sha256:3e705d4d4f629480d3988f8244c63fe00cff291dd4a1a850a06b9ead368001df'}
+  - {seq: 10, filename: KR6v0422_010-B.yaml, hash: 'sha256:86f11c3cdbab1bcec3dfb71bfa62ce88546c4b3452903227d9e52d729998a9c1'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0422_000-B.markers.yaml, hash: 'sha256:31f75feb0055ddd43da5a467351a8f3c0df4a8c9e2af3218db3f9ed9356e06d6'}
+  - {seq: 1, role: markers, filename: assets/KR6v0422_001-B.markers.yaml, hash: 'sha256:20efc937cf3adafbf5937a5a87a212d8cfe209a2c848b504f3b0b4dff7d3662a'}
+  - {seq: 2, role: markers, filename: assets/KR6v0422_002-B.markers.yaml, hash: 'sha256:bacae0b210fa142969540f85ef04535e30a95c3e0f5936ec4fdd76639346647b'}
+  - {seq: 3, role: markers, filename: assets/KR6v0422_003-B.markers.yaml, hash: 'sha256:692afa84c3be53ae870c3efa44b9136628dba3a87047bdd66947becfb311d18b'}
+  - {seq: 4, role: markers, filename: assets/KR6v0422_004-B.markers.yaml, hash: 'sha256:e9c35102b8012b307ff004241e50359cb7780cdbe31c31d5df0ac0fb0d8adac4'}
+  - {seq: 5, role: markers, filename: assets/KR6v0422_005-B.markers.yaml, hash: 'sha256:aecd69d56495c4bc840fe061c52293cfc37300a875c72b0bc9beb2ff6e486e7c'}
+  - {seq: 6, role: markers, filename: assets/KR6v0422_006-B.markers.yaml, hash: 'sha256:afdece342d15dbeeff6613d7af89285a9ad0c99a435469b6e6dcb6b3aab376c4'}
+  - {seq: 7, role: markers, filename: assets/KR6v0422_007-B.markers.yaml, hash: 'sha256:0e090e6f69b3c690be94e34a8bb16a27f18193316bab807e556e2cd78d46795d'}
+  - {seq: 8, role: markers, filename: assets/KR6v0422_008-B.markers.yaml, hash: 'sha256:30f7d9b3d635b0087dc31090de1cd44b6c8530d0aff40990831e11919e550d52'}
+  - {seq: 9, role: markers, filename: assets/KR6v0422_009-B.markers.yaml, hash: 'sha256:ad545c8e5919642e6600df9f4c694e0cf67d38948a6d97f99fae079eccf823eb'}
+  - {seq: 10, role: markers, filename: assets/KR6v0422_010-B.markers.yaml, hash: 'sha256:8ff70c30db9cfd61757721a2cff71fc83ea39964bf4fea899af3918b3c63ac3d'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0422_B_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 提要
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0422_B_000-mulu-2
+    span:
+    - front
+    - 504
+    - 504
+  label: 原序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0422_B_000-mulu-3
+    span:
+    - front
+    - 827
+    - 827
+  label: 本文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0422_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 9619
+  label: '欽定四庫全書
+
+    　法藏碎金錄卷一'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0422_B_002-juan-start
+    span:
+    - body
+    - 0
+    - 8830
+  label: '欽定四庫全書
+
+    　法藏碎金錄卷二'
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0422_B_003-juan-start
+    span:
+    - body
+    - 0
+    - 9650
+  label: '欽定四庫全書
+
+    　法藏碎金錄卷三'
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0422_B_004-juan-start
+    span:
+    - body
+    - 0
+    - 9402
+  label: '欽定四庫全書
+
+    　法藏碎金錄卷四'
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0422_B_005-juan-start
+    span:
+    - body
+    - 0
+    - 9467
+  label: '欽定四庫全書
+
+    　法藏碎金錄卷五'
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0422_B_006-juan-start
+    span:
+    - body
+    - 0
+    - 9498
+  label: '欽定四庫全書
+
+    　法藏碎金錄卷六'
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0422_B_007-juan-start
+    span:
+    - body
+    - 0
+    - 10210
+  label: '欽定四庫全書
+
+    　法藏碎金錄卷七'
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0422_B_008-juan-start
+    span:
+    - body
+    - 0
+    - 10544
+  label: '欽定四庫全書
+
+    　法藏碎金錄卷八'
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0422_B_009-juan-start
+    span:
+    - body
+    - 0
+    - 10813
+  label: '欽定四庫全書
+
+    　法藏碎金錄卷九'
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0422_B_010-juan-start
+    span:
+    - body
+    - 0
+    - 9474
+  label: '欽定四庫全書
+
+    　法藏碎金錄卷十'
+  type: juan
+  level: 1
+hash: sha256:5eae52a49340241a97c1a10fff45c81e54c605b2a473f1954766011d6f550ce2

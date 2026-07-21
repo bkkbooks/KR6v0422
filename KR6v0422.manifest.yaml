@@ -18,7 +18,7 @@ editions:
 - short: B
 assets:
   parts:
-  - {seq: 0, filename: KR6v0422_000.yaml, hash: 'sha256:596206528470c7a4be641aa47818d7b817acddf25a82189ce8dd70da8ddadb70'}
+  - {seq: 0, filename: KR6v0422_000.yaml, hash: 'sha256:9220be2a986b3f29842600a9430cd07e91a210074c112a90dadf8639b0769bab'}
   - {seq: 1, filename: KR6v0422_001.yaml, hash: 'sha256:a70b1b92e9405e5c122219bbfd5df052a9b206342f054e9b2825fade2759990a'}
   - {seq: 2, filename: KR6v0422_002.yaml, hash: 'sha256:825fee4d804ba601692ef5b7c633008ed9bbcc43be9e8a9bcadfcc8487364284'}
   - {seq: 3, filename: KR6v0422_003.yaml, hash: 'sha256:11e4fdf0f8d16f4a8fc809cd319af9401828e023ed53e8c846eb5be669d095e2'}
@@ -30,7 +30,7 @@ assets:
   - {seq: 9, filename: KR6v0422_009.yaml, hash: 'sha256:2f0a01100fa9f85b4ff5d77206d35f69324184b3b11ff1248a62d71d38a49365'}
   - {seq: 10, filename: KR6v0422_010.yaml, hash: 'sha256:cb286c73bd817d14501846d83ed106238086932f8ccda61fb1acb168d5abe4c6'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0422_000.markers.yaml, hash: 'sha256:97808ab2e93f54cd8eba8fefe98a67c3542ba386cb8197806ded35bee0468924'}
+  - {seq: 0, role: markers, filename: assets/KR6v0422_000.markers.yaml, hash: 'sha256:9cab6d51e32b5eae7753f99dfbb57f0230620a58135f5f358a0a6716339d000e'}
   - {seq: 1, role: markers, filename: assets/KR6v0422_001.markers.yaml, hash: 'sha256:c43ef11507c2e89a57bf0e4cb2ba430107956864be3e2182ca3ee7db1867b8ea'}
   - {seq: 2, role: markers, filename: assets/KR6v0422_002.markers.yaml, hash: 'sha256:8253336c8257621e77367467dedec095ee89c6810d94012ca0990fd95f3e17d8'}
   - {seq: 3, role: markers, filename: assets/KR6v0422_003.markers.yaml, hash: 'sha256:dabf2507eaa253d3e07d805a7cc08b922f45e2c6a15fa60e73635b0223bb878d'}
@@ -46,7 +46,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0422_B_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 提要
@@ -56,7 +56,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0422_B_000-mulu-2
     span:
-    - front
+    - body
     - 504
     - 504
   label: 原序
@@ -66,7 +66,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0422_B_000-mulu-3
     span:
-    - front
+    - body
     - 827
     - 827
   label: 本文
@@ -192,7 +192,7 @@ table_of_contents:
     　法藏碎金錄卷十'
   type: juan
   level: 1
-hash: sha256:8621e00e7fc6a6d6112abfe381f52b0942a0c99c18a23703385086708c0888cc
+hash: sha256:44dd22bf5dda658889d81e4b4c94776b1172e0356636ba59e1460d04769b1214
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
